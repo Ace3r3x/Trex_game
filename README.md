@@ -96,12 +96,7 @@ Tune these to change difficulty and feel.
 
 * Inspired by the **Chrome Dino** offline game
 * Built with **p5.js** and **p5.play**
-* Art/sound: your own or royalty-free placeholders (replace with your assets)
-
-## License
-
-Add your preferred license (e.g., MIT) here.
-
+  
 ---
 
-**Enjoy the run!** If you want, I can also add a compact GitHub README badge set and a short GIF/PNG banner for the top.
+**Enjoy the run!**
